@@ -1,0 +1,3 @@
+Client.php   Credis/Client.php
+Cluster.php  Credis/Cluster.php
+Sentinel.php Credis/Sentinel.php
